@@ -2,8 +2,7 @@
 
 - 🔭 Atualmente estou estudando Java
 - 👨‍💻 Atualmente Trabalhando como Freelancer
-- ⚡ Fun fact: Produtor Musical, Engenheiro de Audio
-
+- ⚡ Fun fact: Produtor Musical
 ##
 
 <picture>
@@ -24,6 +23,17 @@
       alt="GitHub Stats" 
       height="170" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=roottracker&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+##
+
+<img
+  align="left"
+  alt="Eclipse"
+  title="Eclipse"
+  width="40px"
+  style="padding-right: 10px;"
+  src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"  
   />
 
 ##
