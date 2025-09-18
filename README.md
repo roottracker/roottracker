@@ -24,10 +24,11 @@
       height="170" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=roottracker&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
+<br/>
 ##
 
-<img
+<div>
+  <img
   align="left"
   alt="Eclipse"
   title="Eclipse"
@@ -35,9 +36,10 @@
   style="padding-right: 10px;"
   src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"  
   />
+</div>
 
 ##
-
+<br/>
 <img 
     align="left" 
     alt="HTML"
