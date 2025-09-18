@@ -28,25 +28,22 @@
 ##
 <br/>
 
-<div>
-  <img
-  align="left"
-  alt="Eclipse"
-  title="Eclipse"
-  width="100px"
-  style="padding-right: 10px;"
-  src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"  
-  />
 
+<div style="display: flex; align-items: center; gap: 100px;">
   <img
-  align="left"
-  alt="Visual Studio Code"
-  title="Visual Studio Code"
-  width="100px"
-  style="padding-right: 10px;"
-  src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"  
+    alt="Eclipse"
+    title="Eclipse"
+    width="120px"
+    src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"  
+  />
+  <img
+    alt="Visual Studio Code"
+    title="Visual Studio Code"
+    width="200px"
+    src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"  
   />
 </div>
+
 
 
 ##
