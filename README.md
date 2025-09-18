@@ -31,7 +31,7 @@
   align="left"
   alt="Eclipse"
   title="Eclipse"
-  width="40px"
+  width="100px"
   style="padding-right: 10px;"
   src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"  
   />
