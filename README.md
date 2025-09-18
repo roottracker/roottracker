@@ -39,9 +39,7 @@
   />
 </div>
 
-<br/>
 ##
-<br/>
 
 <img 
     align="left" 
