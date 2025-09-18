@@ -33,7 +33,7 @@
   alt="Eclipse"
   title="Eclipse"
   width="100px"
-  style="padding-right: 10px;"
+  style="padding-right: 10px; margin-bottom: 10px"
   src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"  
   />
 </div>
