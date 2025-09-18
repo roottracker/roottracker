@@ -8,14 +8,14 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Igor-Victor21&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=roottracker&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Igor-Victor21&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=roottracker&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=roottracker&show_icons=true" />
   
 </picture>
 
@@ -23,7 +23,7 @@
       align="center" 
       alt="GitHub Stats" 
       height="170" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igor-Victor21&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=roottracker&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 ##
@@ -121,7 +121,7 @@
 <br/>
 
 <div> 
-  <a href = "mailto:igor.victorcontato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/igor-victor21/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:contatofabio2005@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/fabio-luis-batista-santos-0ba403291/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
